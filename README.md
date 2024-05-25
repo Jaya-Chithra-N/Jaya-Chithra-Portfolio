@@ -15,7 +15,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720]([https://res.cloudinary.com/droljiumv/image/upload/v1716639621/Portfolio/Screenshot_1282_lvmtxh.png])
+![mockup720](https://res.cloudinary.com/droljiumv/image/upload/v1716639621/Portfolio/Screenshot_1282_lvmtxh.png)
 ![skillsmockup](https://github.com/Jaya-Chithra-N/Jaya Chithra's Portfolio/blob/main/assests/images/Screenshot%20(6).png)
 
 
