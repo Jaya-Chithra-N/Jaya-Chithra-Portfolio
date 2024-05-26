@@ -1,9 +1,5 @@
 ## Portfolio-Website
 
-<a href="https://github.com/Jaya-Chithra-N/Jaya Chithra's Portfolio"><img src="https://sloc.xyz/github/AvinashAnand02/Avinash-Portfolio" alt="LOC"/></a>
-<a href="https://github.com/Jaya-Chithra-N/Jaya-Chithra's Portfolio"><img src="https://img.shields.io/github/stars/Jaya-Chithra-N/Jaya Chithra's Portfolio" alt="Stars Badge"/></a>
-<a href="https://github.com/Jaya-Chithra-N/Jaya Chithra's Portfolio/network/members"><img src="https://img.shields.io/github/forks/Jaya-Chithra-N/Jaya Chithra's Portfolio" alt="Forks Badge"/></a>
-<a href="https://github.com/Jaya-Chithra-N/Jaya Chithra's Portfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Jaya-Chithra-N/Jaya Chithra's Portfolio?color=2b9348"></a>
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
@@ -16,7 +12,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page:
 ![mockup720](https://res.cloudinary.com/droljiumv/image/upload/v1716639621/Portfolio/Screenshot_1282_lvmtxh.png)
-![skillsmockup](https://github.com/Jaya-Chithra-N/Jaya Chithra's Portfolio/blob/main/assests/images/Screenshot%20(6).png)
+![skillsmockup](https://res.cloudinary.com/droljiumv/image/upload/v1716708029/Portfolio/Screenshot_1286_eihts4.png)
 
 
 <h2>📬 Contact</h2>
